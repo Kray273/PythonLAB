@@ -2,9 +2,9 @@
  
 Day75 https://www.notion.so/Day75_Python-faaf2e26bd704e0fb5153b49a2f04b24
 
-Day76
+Day76 https://www.notion.so/Day76-68e4323f14c3468ca2c5d026a8b41cde
 
-Day77
+Day77 https://www.notion.so/Day77_-1105ff18b1294f28a25c481c375d64c0
 
 Day78
 

@@ -14,7 +14,7 @@ Day80 https://www.notion.so/Day80_-54470c6249244fb1be500b5625b0fe1e
 
 Day81 https://www.notion.so/Day81_-5a485a6adb104703810ee64ca8ba0411
 
-Day82 https://www.notion.so/Day82_-8162d5701aa04764ae44a0630de02b34
+Day82 R자연어 처리
 
 Day83
 

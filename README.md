@@ -13,19 +13,3 @@ Day79 https://www.notion.so/Day79_-3cf02902b3624cbeb0e8a8ffd7dd7315
 Day80 https://www.notion.so/Day80_-54470c6249244fb1be500b5625b0fe1e
 
 Day81 https://www.notion.so/Day81_-5a485a6adb104703810ee64ca8ba0411
-
-Day82 R자연어 처리
-
-Day83 https://www.notion.so/Day83_-8dc3a72884b04e448a69a235b2496262
-
-Day84
-
-Day85
-
-Day86
-
-Day87
-
-Day88
-
-Day89
